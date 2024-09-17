@@ -31,13 +31,15 @@ This project aims to develop a product recommendation system using Amazon produc
 
 ## Exploratory Data Analysis
 - **Price vs Rating**: Analyzed how prices (both actual and discounted) correlate with product ratings.
-- ![Price vs Rating](price_vs_rating.png)
+  ![Price vs Rating](price_vs_rating.png)
 - **Top Categories**: Identified the top product categories based on the available data to target popular segments.
 
 ## Sentiment Analysis
 - Performed sentiment analysis on user reviews.
+  ![Sentiment_review](ex_sentiment_review.png)
 - Classified sentiments into Positive, Neutral, and Negative categories.
 - Visualized the distribution of these sentiments to understand consumer emotions towards products.
+  ![Sentiment_distribution](sentiment_analysis_bar_graph.png)
 
 ## Content-Based Filtering
 - Implemented a TF-IDF Vectorizer to transform text data into a format suitable for similarity comparison.
@@ -55,12 +57,9 @@ This project aims to develop a product recommendation system using Amazon produc
 - Significant correlation between discounted prices and customer ratings, suggesting price sensitivity among consumers.
 - Positive reviews overwhelmingly dominate, indicating general customer satisfaction.
 
-## Data Visualizations
-
-
 
 ## Examples of Recommendations
-
+![Product_recommendation](Product_recommendation_hybrid_system.png)
 
 ## Challenges and Learnings
 One challenge was dealing with sparse data, which we mitigated by applying smoothing techniques in our collaborative filtering model.
