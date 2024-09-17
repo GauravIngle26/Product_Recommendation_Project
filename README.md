@@ -31,6 +31,7 @@ This project aims to develop a product recommendation system using Amazon produc
 
 ## Exploratory Data Analysis
 - **Price vs Rating**: Analyzed how prices (both actual and discounted) correlate with product ratings.
+- ![Price vs Rating](price_vs_rating.png)
 - **Top Categories**: Identified the top product categories based on the available data to target popular segments.
 
 ## Sentiment Analysis
