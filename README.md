@@ -13,15 +13,10 @@ This project aims to develop a product recommendation system using Amazon produc
 - [Hybrid Recommendation Approach](#hybrid-recommendation-approach)
 - [Results](#results)
 - [Key Findings and Insights](#key-findings-and-insights)
-- [Data Visualizations](#data-visualizations)
-- [Model Performance](#model-performance)
 - [Examples of Recommendations](#examples-of-recommendations)
 - [Challenges and Learnings](#challenges-and-learnings)
 - [Future Work](#future-work)
 - [Conclusions](#conclusions)
-- [How to Run](#how-to-run)
-- [Author](#author)
-- [License](#license)
 
 ## Technologies Used
 - Python
