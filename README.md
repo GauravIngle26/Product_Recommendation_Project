@@ -60,20 +60,11 @@ This project aims to develop a product recommendation system using Amazon produc
 - Positive reviews overwhelmingly dominate, indicating general customer satisfaction.
 
 ## Data Visualizations
-![Price vs Rating](link_to_image_here)
-*Figure 1: Scatter plot showing the relationship between price and rating.*
 
-## Model Performance
-Our hybrid recommendation model achieved an accuracy of X%, with the following metrics:
-- Precision: XX%
-- Recall: XX%
+
 
 ## Examples of Recommendations
-**Product ID**: B07JW9H4J1
-**Recommendations**:
-- Product A
-- Product B
-- Product C
+
 
 ## Challenges and Learnings
 One challenge was dealing with sparse data, which we mitigated by applying smoothing techniques in our collaborative filtering model.
@@ -84,13 +75,5 @@ We plan to explore deep learning techniques to further enhance the personalizati
 ## Conclusions
 The developed product recommendation system showcases the effective use of both content-based and collaborative filtering methods to recommend products. This system can be integrated into e-commerce platforms to enhance user experience by providing personalized recommendations.
 
-## How to Run
-Instructions on how to set up and run the project:
-1. Install required libraries: `pip install -r requirements.txt`
-2. Run the notebook: `jupyter notebook recommendation_system.ipynb`
 
-## Author
-- [Your Name]
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
